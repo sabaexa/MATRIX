@@ -1,0 +1,131 @@
+body{
+    background-image: url(4828882.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    
+}
+#MATRIX{
+    font-family: "press Start 2P";
+    margin-left: auto;
+    margin-right: auto;
+}
+#YLEOBA{
+    font-size: 35px;
+}
+ #box1{
+    margin-top: 10px;
+    border: 3px solid;
+    height: 50px;
+    width: 100px;
+    font-size: 10px;
+    border-radius: 5px; 
+    margin-right: auto;
+    color:rgb(255, 27, 15);
+    margin-left: auto;
+    float: left;
+ }
+ LABEL{
+    color: rgb(0, 255, 8);
+ }
+ #boxtext{
+color: blue;
+text-align: center;
+font-size: 22px;
+position: relative;
+top: 25%;
+ }
+ #mona{
+margin-top: 10px;
+color: rgb(0, 255, 8);
+font-family: "Press Start 2P";
+margin-left: 10px;
+text-align: center;
+display: inline-block;
+margin-top: 30px;
+ }
+ #konteineri{
+    text-align: center;
+ }
+ #box11{
+height: 215px;
+width: 255px;
+background-image: url(th-removebg-preview.png);
+margin-top: 30px;
+position: relative;
+bottom: 300px;
+left: 500px;
+ }
+#MADLOBA{
+    color: blue;
+ }
+#box22{
+   height: 150px;
+   width: 200px;
+   position: relative;
+   bottom: 120px;
+   left: 560px;
+   background-image: url(maxresdefault-removebg-preview.png);
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center;
+ }
+ #archevani{
+color: rgb(0, 255, 8);
+font-family: "Press Start 2P";
+position: relative;
+bottom: 300px;
+left: 470px;
+font-size: 20px;
+ }
+ #iobidze{
+  height: 300px; 
+  width: 600px;
+  background-image: url(412118671_959292845527444_4645536531548885649_n.jpg);
+  background-repeat: no-repeat;
+  position: relative;
+  bottom: 130px;
+  left: 464px;
+ }
+ #redpill{
+   width: 100px;
+   color: rgb(255, 0, 0);
+   position: relative;
+   bottom: 439px;
+   left: 375px;
+   font-family: "Diphylleia";
+   font-size: 28px;
+ }
+ #bluepill{
+   width: 100px;
+   color: rgb(0, 255, 8);
+   position: relative;
+   bottom: 731px;
+   left: 870px;
+   font-family: "Diphylleia";
+   font-size: 24px;
+ }
+ #insticon{
+   width: 50px;
+   height: 50px;
+   position: relative;
+   bottom: 1270px;
+   left: 630px;
+ }
+ #love{
+   color: gold;
+   position: relative;
+   bottom: 700px;
+   font-size: 25px;
+   
+   animation: slide;
+   animation-duration: 5s;
+ }
+ @keyframes slide{
+   from{margin-left: 100%;}
+   to{margin-left: 0%;}
+ }
+
+ 
+   
